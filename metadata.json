@@ -1,0 +1,6 @@
+{
+  "name": "Tinta Tutur",
+  "description": "Jembatan apresiasi karya dan aplikasi edukasi interaktif (Lab Belajar) untuk seniman, dibangun dengan gaya Mobile-First.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
